@@ -8,3 +8,4 @@
 | 🔬 MRI Segmentation | Automated brain tissue segmentation | Python, Scikit-learn, K-means | [GitHub](https://github.com/kuljit-medtech/mri-segmentation) |
 | 🏥 hazen Contribution | Bug fix PR to NHS MRI QA tool | Python, Git | [PR #516](https://github.com/GSTT-CSC/hazen/pull/516) |
 | 🧠 MRI Brain Viewer | Interactive MRI brain scan visualiser | Python, NiBabel, Matplotlib | [GitHub](https://github.com/kuljit-medtech/mri-brain-viewer) |
+| 📡 3T MRI RF Coil Simulation | Electromagnetic simulation of 3T surface coil — S11 = -34.27dB, B1+/B1- field maps, SAR10g analysis, current density (95 A/m) | CST Studio Suite · MATLAB · LaTeX | [GitHub](https://github.com/kuljit-medtech/MRI-RF-Coil-Simulation-3T) |
